@@ -148,6 +148,7 @@ events*
 *.npy
 *.h5
 *.txt
+*.csv
 
 # Checkpoint
 *.data-00000-of-00001
@@ -165,3 +166,4 @@ checkpoints_best_only/
 
 models/
 data/
+dataset/
