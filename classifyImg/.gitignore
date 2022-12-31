@@ -167,3 +167,8 @@ checkpoints_best_only/
 models/
 data/
 dataset/
+
+dataset/aligned
+dataset/celebA
+dataset/faces
+dataset/flowers
